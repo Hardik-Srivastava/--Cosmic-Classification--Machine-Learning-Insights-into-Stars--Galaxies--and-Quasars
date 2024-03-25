@@ -24,6 +24,6 @@ Additionally, "dataset.png" offers a visual representation of the dataset's stru
 
 Moreover, the correlation among different features is visualized in "pairplot.png," highlighting potential relationships and insights for model training and interpretation.
 
-![Pairplot](Outputs/pairplot.png)
+![Pairplot](Outputs/pairplots.png)
 
 This README serves as a guide to understanding the project's objectives, dataset features, and model performance, paving the way for further exploration and analysis in the realm of astronomy and data science.
